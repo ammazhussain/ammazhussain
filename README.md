@@ -1,7 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Ammaz Hussain</h1>
+<h1 align="center">Hey, I'm Ammaz 👋</h1>
 
 <p align="center">
-  <strong>CS Undergrad · Full-Stack Developer · Building clean, user-driven solutions</strong>
+  CS undergrad at Bahria University, Islamabad. I build full-stack web apps, tinker with AI, and occasionally make things move with GSAP.
 </p>
 
 <p align="center">
@@ -16,21 +16,17 @@
   </a>
 </p>
 
----
+<br>
 
-### 🧑‍💻 About Me
+### A bit about me
 
-I'm a Computer Science student at **Bahria University, Islamabad**, passionate about full-stack development and building software that solves real problems. I enjoy working across the stack — from crafting responsive frontends to wiring up backends and integrating AI features.
+I like building things that actually work and look good doing it. Most of my time goes into full-stack development — wiring up backends, making frontends feel smooth, and figuring out how to squeeze AI into places it's useful. I've built chatbots that generate workout plans, animated agency websites, and a civic engagement app in Flutter. I'm always picking up something new — right now that's React, Node.js, and getting better at deploying things properly.
 
-- 🔭 Currently working on **full-stack web apps** with modern frameworks
-- 🌱 Exploring **React, Node.js, and cloud deployment**
-- 🤖 Experienced with **AI/ML integration** (Flask + spaCy + scikit-learn)
-- 📱 Dabbling in **mobile development** with Flutter/Dart
-- ⚡ Fun fact: I love building things from scratch — games, chatbots, you name it
+I'm the kind of person who'd rather build a whole project from scratch to learn something than watch a tutorial about it.
 
----
+<br>
 
-### 🛠️ Tech Stack
+### What I work with
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -49,24 +45,24 @@ I'm a Computer Science student at **Bahria University, Islamabad**, passionate a
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
----
+<br>
 
-### 🚀 Featured Projects
+### Things I've built
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**AI Fitness Trainer Chatbot**](https://github.com/ammazhussain/Gym-Website-AI-Fitness-Trainer-chatbot) | Full gym website with an AI chatbot that generates personalized workout & diet plans using NLP and clustering | Python, Flask, spaCy, Bootstrap |
-| [**FitGenius RAG Chatbot**](https://github.com/ammazhussain/fitgenius-rag-chatbot) | Privacy-focused fitness chatbot using local LLM (Mistral via Ollama), TF-IDF vectorization, and FAISS similarity search — runs entirely offline | Python, Flask, FAISS, Ollama |
-| [**Civic Sense**](https://github.com/ammazhussain/Civic-Sence) | Cross-platform civic engagement mobile app built with Flutter and Firebase | Dart, Flutter, Firebase |
-| [**GSAP Digital Agency Studio**](https://github.com/ammazhussain/GSAP-Digital-Agency-Studio) | Immersive agency landing page with advanced scroll-based GSAP animations — [Live Demo](https://demo-gsap-aggency.netlify.app) | HTML, JS, GSAP, Bootstrap |
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [**AI Fitness Trainer**](https://github.com/ammazhussain/Gym-Website-AI-Fitness-Trainer-chatbot) | A gym website with a chatbot that builds personalized workout and diet plans using NLP and clustering | Python, Flask, spaCy, Bootstrap |
+| [**FitGenius RAG Chatbot**](https://github.com/ammazhussain/fitgenius-rag-chatbot) | A fitness chatbot that runs 100% locally — Mistral LLM via Ollama, FAISS for similarity search, no cloud needed | Python, Flask, FAISS, Ollama |
+| [**Civic Sense**](https://github.com/ammazhussain/Civic-Sence) | A cross-platform civic engagement app with Firebase backend | Dart, Flutter, Firebase |
+| [**GSAP Agency Studio**](https://github.com/ammazhussain/GSAP-Digital-Agency-Studio) | An animated digital agency landing page — built during my internship at Megatronix Studio · [Live Demo](https://demo-gsap-aggency.netlify.app) | HTML, JS, GSAP, Bootstrap |
 
----
+<br>
 
-### 📊 GitHub Stats
+### GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ammazhussain&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -77,11 +73,11 @@ I'm a Computer Science student at **Bahria University, Islamabad**, passionate a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammazhussain&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
----
+<br>
 
-### 🤝 Let's Connect
+### Let's talk
 
-I'm always open to collaborating on interesting projects or just chatting about tech. Feel free to reach out!
+I'm always up for collaborating on something interesting or just nerding out about tech. Drop me a message — I don't bite.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ammaz-hussain-75023b300/">LinkedIn</a> · 
