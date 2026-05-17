@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/ammaz-hussain-75023b300/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ammazammaz.ussain2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ammazhussain">
@@ -84,7 +84,7 @@ I'm a Computer Science student at **Bahria University, Islamabad**, passionate a
 I'm always open to collaborating on interesting projects or just chatting about tech. Feel free to reach out!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> · 
-  <a href="mailto:your.email@example.com">Email</a> · 
+  <a href="https://www.linkedin.com/in/ammaz-hussain-75023b300/">LinkedIn</a> · 
+  <a href="mailto:ammazammaz.ussain2002@gmail.com">Email</a> · 
   <a href="https://github.com/ammazhussain">GitHub</a>
 </p>
