@@ -1,90 +1,60 @@
-<h1 align="center">Hey there 👋, I'm Ammaz Hussain</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Ammaz Hussain, full-stack developer, Islamabad" src="assets/banner-light.svg" width="100%">
+</picture>
 
-<p align="center">
-  <strong>CS Undergrad · Full-Stack Developer · Building clean, user-driven solutions</strong>
-</p>
+I build software that keeps working when the wifi does not.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ammaz-hussain-75023b300/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ammazammaz.ussain2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ammazhussain">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Most of what I ship runs on the machine it was opened on: a fitness assistant that answers from a local Mistral model with no API key, a goal tracker that never sends a byte to a server, a neuro-fuzzy air quality classifier trained in PyTorch and then squeezed into plain JavaScript so it runs in a browser tab. I like the constraint. It forces the code to be small and the thinking to be honest.
 
----
+Right now I am deepening React and Node, learning what actually breaks in production, and looking for a first internship or junior role where I get told I am wrong often enough to get good quickly.
 
-### 🧑‍💻 About Me
+<br>
 
-I'm a Computer Science student at **Bahria University, Islamabad**, passionate about full-stack development and building software that solves real problems. I enjoy working across the stack — from crafting responsive frontends to wiring up backends and integrating AI features.
+## Selected work
 
-- 🔭 Currently working on **full-stack web apps** with modern frameworks
-- 🌱 Exploring **React, Node.js, and cloud deployment**
-- 🤖 Experienced with **AI/ML integration** (Flask + spaCy + scikit-learn)
-- 📱 Dabbling in **mobile development** with Flutter/Dart
-- ⚡ Fun fact: I love building things from scratch — games, chatbots, you name it
+| Project | What it actually does | Built with |
+| :--- | :--- | :--- |
+| **[Tsumizen](https://github.com/ammazhussain/Goal-Tracker)** <br> [live](https://tsumizen.netlify.app) | Goal tracker that turns a big goal into daily blocks you stack. Installable PWA, works with the network off, all data stays on device. | React 19, TypeScript, Vite |
+| **[FitGenius RAG](https://github.com/ammazhussain/fitgenius-rag-chatbot)** | Fitness Q&A grounded in a local document set. TF-IDF plus FAISS retrieval feeding a Mistral model through Ollama, so the whole pipeline runs offline with zero API cost. | Python, Flask, FAISS, Ollama |
+| **[ANFIS Air Quality Predictor](https://github.com/ammazhussain/Neural-Network-Fuzzy-Logic-Final-Project)** | Sugeno ANFIS classifying AQI from PM2.5, PM10, NO2 and CO. 16 fuzzy rules, 90.53% test accuracy, trained in PyTorch and shipped as a server-free browser GUI. | PyTorch, JavaScript |
+| **[AI Fitness Trainer](https://github.com/ammazhussain/Gym-Website-AI-Fitness-Trainer-chatbot)** | Gym site with a chatbot that reads intent with spaCy and clusters users into workout and diet plans instead of hardcoding replies. | Flask, spaCy, scikit-learn |
+| **[Civic Sense](https://github.com/ammazhussain/Civic-Sence)** | Cross-platform app for reporting and tracking civic issues, backed by Firebase. | Flutter, Dart, Firebase |
+| **[GSAP Agency Studio](https://github.com/ammazhussain/GSAP-Digital-Agency-Studio)** <br> [live](https://demo-gsap-aggency.netlify.app) | Scroll-driven agency landing page, timeline animation done by hand rather than by template. | GSAP, JavaScript |
 
----
+Also here: [number plate recognition](https://github.com/ammazhussain/Vehicle-Number-Plate-Recognition) with OpenCV and Tesseract, a [C++ trivia engine](https://github.com/ammazhussain/Trivia), and a [Flutter activity tracker](https://github.com/ammazhussain/Activity-Tracker).
 
-### 🛠️ Tech Stack
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-</p>
+## Toolkit
 
----
+| | |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, JavaScript, Dart, C++, PHP |
+| **Web** | React, Vite, Flask, Bootstrap, GSAP, HTML, CSS |
+| **ML and data** | PyTorch, scikit-learn, spaCy, FAISS, OpenCV, Ollama |
+| **Mobile** | Flutter |
+| **Data and infra** | MySQL, Firebase, Git, Netlify |
 
-### 🚀 Featured Projects
+<br>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**AI Fitness Trainer Chatbot**](https://github.com/ammazhussain/Gym-Website-AI-Fitness-Trainer-chatbot) | Full gym website with an AI chatbot that generates personalized workout & diet plans using NLP and clustering | Python, Flask, spaCy, Bootstrap |
-| [**FitGenius RAG Chatbot**](https://github.com/ammazhussain/fitgenius-rag-chatbot) | Privacy-focused fitness chatbot using local LLM (Mistral via Ollama), TF-IDF vectorization, and FAISS similarity search — runs entirely offline | Python, Flask, FAISS, Ollama |
-| [**Civic Sense**](https://github.com/ammazhussain/Civic-Sence) | Cross-platform civic engagement mobile app built with Flutter and Firebase | Dart, Flutter, Firebase |
-| [**GSAP Digital Agency Studio**](https://github.com/ammazhussain/GSAP-Digital-Agency-Studio) | Immersive agency landing page with advanced scroll-based GSAP animations — [Live Demo](https://demo-gsap-aggency.netlify.app) | HTML, JS, GSAP, Bootstrap |
+## How I work
 
----
+- Ship the smallest version that genuinely runs, then improve the part that hurts. Nothing gets built for a requirement nobody has yet.
+- Local and boring beats one more API key. Fewer moving parts means fewer things to explain at 3am.
+- If I cannot write the README without hand waving, I do not understand the project well enough to call it done.
 
-### 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammazhussain&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammazhussain&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+## Reach me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammazhussain&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/ammaz-hussain-75023b300/) &nbsp;·&nbsp; [Email](mailto:ammazammaz.ussain2002@gmail.com) &nbsp;·&nbsp; Islamabad, Pakistan
 
----
+Open to internships, junior roles, and anyone who wants a second pair of hands on something hard.
 
-### 🤝 Let's Connect
-
-I'm always open to collaborating on interesting projects or just chatting about tech. Feel free to reach out!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ammaz-hussain-75023b300/">LinkedIn</a> · 
-  <a href="mailto:ammazammaz.ussain2002@gmail.com">Email</a> · 
-  <a href="https://github.com/ammazhussain">GitHub</a>
-</p>
+<details>
+<summary>GitHub stats</summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=ammazhussain&show_icons=true&theme=transparent&hide_border=true&hide_title=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammazhussain&layout=compact&theme=transparent&hide_border=true&hide_title=true" width="41%">
+</details>
