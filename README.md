@@ -5,7 +5,7 @@
 
 Web and mobile developer in Islamabad. I design the interface first, then wire the AI in behind it.
 
-Plenty of people can make the feature work. The reason a client comes back is that the thing looks finished and their users can figure it out without being told. So that is the half I put the extra hours into: layout, type, motion, the state nobody remembers to design like empty, loading and error.
+Plenty of people can make the feature work. The reason a client comes back is that the thing looks finished and their users can figure it out without being told. So that is the half I put the extra hours into: layout, type, motion, the states nobody remembers to design like empty, loading and error.
 
 <br>
 
@@ -22,17 +22,27 @@ Plenty of people can make the feature work. The reason a client comes back is th
 
 ## Interface work
 
-Screens from the two public builds I can show. The client work follows the same standard.
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://demo-gsap-aggency.netlify.app"><img src="assets/shots/gsap.png" width="100%" alt="GSAP agency landing page"></a>
+      <a href="https://makenbrothers.com"><img src="assets/shots/makenbrothers.jpg" width="100%" alt="Maken Brothers construction site"></a>
+      <br><b>Maken Brothers</b> · client, live<br>
+      Contractor site for road, drainage and development work. Condensed display type over site photography, service pages per division.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://wanibeautysalon.netlify.app"><img src="assets/shots/wani.jpg" width="100%" alt="Wani Beauty Salon site"></a>
+      <br><b>Wani Beauty Salon</b> · client, live<br>
+      Salon site with appointment booking. Fixed plum sidebar, editorial hero, services carried by photography.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://demo-gsap-aggency.netlify.app"><img src="assets/shots/gsap.jpg" width="100%" alt="GSAP agency landing page"></a>
       <br><b>Agency landing page</b><br>
       Type set at display scale, a column grid you can actually see, scroll timelines written by hand.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/ammazhussain/Neural-Network-Fuzzy-Logic-Final-Project"><img src="assets/shots/anfis.png" width="100%" alt="ANFIS air quality predictor interface"></a>
+      <a href="https://github.com/ammazhussain/Neural-Network-Fuzzy-Logic-Final-Project"><img src="assets/shots/anfis.jpg" width="100%" alt="ANFIS air quality predictor interface"></a>
       <br><b>ANFIS air quality predictor</b><br>
       A model people can use. Live sliders, class confidence, and the fuzzy rules that fired shown instead of hidden.
     </td>
@@ -64,15 +74,20 @@ Same app in both themes, [live here](https://tsumizen.netlify.app).
 
 | Project | Focus | What it does |
 | :--- | :--- | :--- |
-| **[FitGenius RAG](https://github.com/ammazhussain/fitgenius-rag-chatbot)** | Web + AI | Fitness Q&A grounded in a local document set. TF-IDF and FAISS retrieval feeding a Mistral model through Ollama, so the whole pipeline runs with no API key and no data leaving the machine. |
+| **[Civic Sense](https://github.com/ammazhussain/Civic-Sence)** | Final year project | Cross-platform app for reporting civic issues and tracking what happens to them, backed by Firebase. |
 | **[AI Fitness Trainer](https://github.com/ammazhussain/Gym-Website-AI-Fitness-Trainer-chatbot)** | Web + AI | Gym site with a chatbot that reads intent with spaCy and clusters users into workout and diet plans instead of returning canned replies. |
-| **[Civic Sense](https://github.com/ammazhussain/Civic-Sence)** | Mobile | Cross-platform app for reporting and tracking civic issues, backed by Firebase. |
-| **[Tsumizen](https://github.com/ammazhussain/Goal-Tracker)** <br> [live](https://tsumizen.netlify.app) | Interface | Goal tracker that breaks a big goal into daily blocks. Installable PWA, custom design system, works with the network off, all data on device. |
+| **[Maken Brothers](https://makenbrothers.com)** | Client, live | Contractor site for a construction and supply firm. Separate pages per service division, built for search as well as looks. |
+| **[Wani Beauty Salon](https://wanibeautysalon.netlify.app)** | Client, live | Salon site where customers browse services and book an appointment. |
+| **Optimus Medical** | Client | B2B platform for medical equipment. A buyer gets a catalogue matched to what they need, requests a product, negotiates the price and books a call about it, all through built in messaging. Private repo. |
 | **[GSAP Agency Studio](https://github.com/ammazhussain/GSAP-Digital-Agency-Studio)** <br> [live](https://demo-gsap-aggency.netlify.app) | Interface | Scroll driven agency landing page. Timelines written by hand, not dropped in from a template. |
+| **[Tsumizen](https://github.com/ammazhussain/Goal-Tracker)** <br> [live](https://tsumizen.netlify.app) | Interface | Goal tracker that breaks a big goal into daily blocks. Installable PWA, custom design system, works with the network off, all data on device. Built for the fun of it. |
 | **[ANFIS Air Quality Predictor](https://github.com/ammazhussain/Neural-Network-Fuzzy-Logic-Final-Project)** | Standalone AI | Sugeno ANFIS classifying AQI from PM2.5, PM10, NO2 and CO. 16 fuzzy rules, 90.53% test accuracy, trained in PyTorch and shipped as a browser GUI with no server. |
 | **[Plate Recognition](https://github.com/ammazhussain/Vehicle-Number-Plate-Recognition)** | Standalone AI | ANPR pipeline. Canny edges and contour sorting to isolate the plate, Tesseract for the characters, results logged to CSV. |
+| **[FitGenius RAG](https://github.com/ammazhussain/fitgenius-rag-chatbot)** | Web + AI | Fitness Q&A grounded in a local document set. TF-IDF and FAISS retrieval feeding a Mistral model through Ollama, so the pipeline runs with no API key and no data leaving the machine. |
 
-Nine more repos are private. They are freelance client builds and they stay closed, but I am happy to walk through the work, the decisions and the code on a call.
+The salon, the agency page and the medical platform were written before I used any AI tooling. Every layout decision in them is one I made and can defend.
+
+Nine repos are private. They are client builds and they stay closed, but I am happy to walk through the work, the decisions and the code on a call.
 
 <br>
 
