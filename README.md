@@ -20,6 +20,46 @@ Plenty of people can make the feature work. The reason a client comes back is th
 
 <br>
 
+## Interface work
+
+Screens from the two public builds I can show. The client work follows the same standard.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://demo-gsap-aggency.netlify.app"><img src="assets/shots/gsap.png" width="100%" alt="GSAP agency landing page"></a>
+      <br><b>Agency landing page</b><br>
+      Type set at display scale, a column grid you can actually see, scroll timelines written by hand.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ammazhussain/Neural-Network-Fuzzy-Logic-Final-Project"><img src="assets/shots/anfis.png" width="100%" alt="ANFIS air quality predictor interface"></a>
+      <br><b>ANFIS air quality predictor</b><br>
+      A model people can use. Live sliders, class confidence, and the fuzzy rules that fired shown instead of hidden.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="assets/shots/tsumizen-today.png" width="100%" alt="Tsumizen today screen, light theme">
+      <br><b>Today</b><br>Timed work above, anything-goes below.
+    </td>
+    <td width="33%" valign="top">
+      <img src="assets/shots/tsumizen-calendar.png" width="100%" alt="Tsumizen calendar screen, dark theme">
+      <br><b>Calendar</b><br>Kept days as filled dots, planned as hollow.
+    </td>
+    <td width="33%" valign="top">
+      <img src="assets/shots/tsumizen-goals.png" width="100%" alt="Tsumizen goals screen, dark theme">
+      <br><b>Goals</b><br>One colour per goal, carried through every screen.
+    </td>
+  </tr>
+</table>
+
+Same app in both themes, [live here](https://tsumizen.netlify.app).
+
+<br>
+
 ## Selected work
 
 | Project | Focus | What it does |
