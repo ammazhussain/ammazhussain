@@ -3,11 +3,11 @@
   <img alt="Ammaz Hussain, full-stack developer, Islamabad" src="assets/banner-light.svg" width="100%">
 </picture>
 
-I build software that keeps working when the wifi does not.
+Computer science undergrad in Islamabad. I write Python, TypeScript and Dart, and I spend most of my time on the part where a model or a UI has to survive contact with a real user.
 
-Most of what I ship runs on the machine it was opened on: a fitness assistant that answers from a local Mistral model with no API key, a goal tracker that never sends a byte to a server, a neuro-fuzzy air quality classifier trained in PyTorch and then squeezed into plain JavaScript so it runs in a browser tab. I like the constraint. It forces the code to be small and the thinking to be honest.
+Recent work: a fitness assistant running a local Mistral through Ollama with no API key, a goal tracker that keeps every byte on device, a neuro fuzzy air quality classifier trained in PyTorch and then compressed into plain JavaScript so it runs in a browser tab. The pattern is not on purpose. It just turns out that cutting the server forces the code to get small and the thinking to get honest.
 
-Right now I am deepening React and Node, learning what actually breaks in production, and looking for a first internship or junior role where I get told I am wrong often enough to get good quickly.
+Currently going deeper on React and Node, and looking for a first internship or junior role.
 
 <br>
 
@@ -51,10 +51,3 @@ Also here: [number plate recognition](https://github.com/ammazhussain/Vehicle-Nu
 [LinkedIn](https://www.linkedin.com/in/ammaz-hussain-75023b300/) &nbsp;·&nbsp; [Email](mailto:ammazammaz.ussain2002@gmail.com) &nbsp;·&nbsp; Islamabad, Pakistan
 
 Open to internships, junior roles, and anyone who wants a second pair of hands on something hard.
-
-<details>
-<summary>GitHub stats</summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=ammazhussain&show_icons=true&theme=transparent&hide_border=true&hide_title=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammazhussain&layout=compact&theme=transparent&hide_border=true&hide_title=true" width="41%">
-</details>
