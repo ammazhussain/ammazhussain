@@ -1,130 +1,90 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Ammaz Hussain, web and mobile developer, Islamabad" src="assets/banner-light.svg" width="100%">
-</picture>
+<h1 align="center">Hey there 👋, I'm Ammaz Hussain</h1>
 
-I design the interface first, then wire the AI in behind it. Anyone can make the feature work. The interface is why a client comes back.
+<p align="center">
+  <strong>CS Undergrad · Full-Stack Developer · Building clean, user-driven solutions</strong>
+</p>
 
-[**Live client work**](#live-client-work) &nbsp;·&nbsp; [**Noor**](#noor) &nbsp;·&nbsp; [**Everything else**](#everything-else) &nbsp;·&nbsp; [**Stack**](#stack) &nbsp;·&nbsp; [**Hire me**](#hire-me)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ammaz-hussain-75023b300/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ammazammaz.ussain2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ammazhussain">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<br>
+---
 
-## Live client work
+### 🧑‍💻 About Me
 
-<table>
-  <tr>
-    <td width="33.3%" valign="top">
-      <a href="https://makenbrothers.com"><img src="assets/shots/makenbrothers.jpg" width="100%" alt="Maken Brothers construction site"></a>
-    </td>
-    <td width="33.3%" valign="top">
-      <a href="https://wanibeautysalon.netlify.app"><img src="assets/shots/wani.jpg" width="100%" alt="Wani Beauty Salon site"></a>
-    </td>
-    <td width="33.3%" valign="top">
-      <a href="https://optimusmedicalpak.netlify.app"><img src="assets/shots/optimus.jpg" width="100%" alt="Optimus Medical equipment platform"></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <b><a href="https://makenbrothers.com">Maken Brothers</a></b><br>
-      <sub>Contractor, national infrastructure. Condensed display type over site photography, a page per service division.</sub>
-    </td>
-    <td valign="top">
-      <b><a href="https://wanibeautysalon.netlify.app">Wani Beauty Salon</a></b><br>
-      <sub>Salon site with appointment booking. Fixed plum sidebar, editorial hero, services carried by photography.</sub>
-    </td>
-    <td valign="top">
-      <b><a href="https://optimusmedicalpak.netlify.app">Optimus Medical</a></b><br>
-      <sub>B2B equipment platform. Catalogue, enquiry, price negotiation and messaging in one flow.</sub>
-    </td>
-  </tr>
-</table>
+I'm a Computer Science student at **Bahria University, Islamabad**, passionate about full-stack development and building software that solves real problems. I enjoy working across the stack — from crafting responsive frontends to wiring up backends and integrating AI features.
 
-<sub>A fourth, <a href="https://himmeltek-ledger.web.app">Himmeltek Ledger</a>, sits behind a sign in, so the demo stops at the door.</sub>
+- 🔭 Currently working on **full-stack web apps** with modern frameworks
+- 🌱 Exploring **React, Node.js, and cloud deployment**
+- 🤖 Experienced with **AI/ML integration** (Flask + spaCy + scikit-learn)
+- 📱 Dabbling in **mobile development** with Flutter/Dart
+- ⚡ Fun fact: I love building things from scratch — games, chatbots, you name it
 
-<br>
+---
 
-## Noor
+### 🛠️ Tech Stack
 
-A salah tracker with over 100 users. Arabic and English set together, prayer windows on a timeline instead of a checklist, and a year of practice as one heatmap. [Open it](https://noor-2c143.web.app).
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+</p>
 
-<table>
-  <tr>
-    <td width="33.3%"><img src="assets/shots/noor-home.jpg" width="100%" alt="Noor today screen"></td>
-    <td width="33.3%"><img src="assets/shots/noor-tasbeeh.jpg" width="100%" alt="Noor tasbeeh screen"></td>
-    <td width="33.3%"><img src="assets/shots/noor-stats.jpg" width="100%" alt="Noor stats screen"></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Today</b><br><sub>Prayer windows, hijri date, qibla in the corner.</sub></td>
-    <td valign="top"><b>Tasbeeh</b><br><sub>Dhikr grouped by occasion, each with its own count.</sub></td>
-    <td valign="top"><b>Stats</b><br><sub>The year as a heatmap, on time against missed.</sub></td>
-  </tr>
-</table>
+---
 
-<br>
+### 🚀 Featured Projects
 
-## Everything else
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**AI Fitness Trainer Chatbot**](https://github.com/ammazhussain/Gym-Website-AI-Fitness-Trainer-chatbot) | Full gym website with an AI chatbot that generates personalized workout & diet plans using NLP and clustering | Python, Flask, spaCy, Bootstrap |
+| [**FitGenius RAG Chatbot**](https://github.com/ammazhussain/fitgenius-rag-chatbot) | Privacy-focused fitness chatbot using local LLM (Mistral via Ollama), TF-IDF vectorization, and FAISS similarity search — runs entirely offline | Python, Flask, FAISS, Ollama |
+| [**Civic Sense**](https://github.com/ammazhussain/Civic-Sence) | Cross-platform civic engagement mobile app built with Flutter and Firebase | Dart, Flutter, Firebase |
+| [**GSAP Digital Agency Studio**](https://github.com/ammazhussain/GSAP-Digital-Agency-Studio) | Immersive agency landing page with advanced scroll-based GSAP animations — [Live Demo](https://demo-gsap-aggency.netlify.app) | HTML, JS, GSAP, Bootstrap |
 
-<details>
-<summary><b>University work</b> · the final year project and the chatbot that came after it</summary>
-<br>
+---
 
-| | |
-| :--- | :--- |
-| **[Civic Sense](https://github.com/ammazhussain/Civic-Sence)** <br> <sub>Final year project</sub> | Cross-platform app for reporting civic issues and tracking what happens to them. Flutter and Firebase. |
-| **[AI Fitness Trainer](https://github.com/ammazhussain/Gym-Website-AI-Fitness-Trainer-chatbot)** | Gym site with a chatbot that reads intent with spaCy and clusters users into workout and diet plans instead of returning canned replies. |
+### 📊 GitHub Stats
 
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ammazhussain&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammazhussain&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<details>
-<summary><b>AI that ships with a face</b> · models people can actually use</summary>
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammazhussain&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
-| | |
-| :--- | :--- |
-| **[ANFIS Air Quality Predictor](https://github.com/ammazhussain/Neural-Network-Fuzzy-Logic-Final-Project)** | Sugeno ANFIS classifying AQI from PM2.5, PM10, NO2 and CO. 16 fuzzy rules, 90.53% test accuracy, trained in PyTorch and shipped as a browser GUI with no server. |
-| **[FitGenius RAG](https://github.com/ammazhussain/fitgenius-rag-chatbot)** | Fitness Q&A grounded in a local document set. TF-IDF and FAISS retrieval feeding a Mistral model through Ollama. No API key, nothing leaves the machine. |
-| **[Plate Recognition](https://github.com/ammazhussain/Vehicle-Number-Plate-Recognition)** | ANPR pipeline. Canny edges and contour sorting to isolate the plate, Tesseract for the characters, results logged to CSV. |
+---
 
-</details>
+### 🤝 Let's Connect
 
-<details>
-<summary><b>Built for the pleasure of it</b> · where the interface experiments go</summary>
-<br>
+I'm always open to collaborating on interesting projects or just chatting about tech. Feel free to reach out!
 
-| | |
-| :--- | :--- |
-| **[Tsumizen](https://tsumizen.netlify.app)** <br> <sub>[source](https://github.com/ammazhussain/Goal-Tracker)</sub> | Goal tracker that breaks a big goal into daily blocks. Installable PWA, custom design system, light and dark, works with the network off, all data on device. |
-| **[GSAP Agency Studio](https://demo-gsap-aggency.netlify.app)** <br> <sub>[source](https://github.com/ammazhussain/GSAP-Digital-Agency-Studio)</sub> | Scroll driven agency landing page. Timelines written by hand, not dropped in from a template. |
-
-<a href="https://demo-gsap-aggency.netlify.app"><img src="assets/shots/gsap.jpg" width="70%" alt="GSAP agency landing page"></a>
-
-</details>
-
-<details>
-<summary><b>Earlier ground</b> · what I learned on, kept honest</summary>
-<br>
-
-[First Bootstrap build](https://yummybootstrap-proj.netlify.app) &nbsp;·&nbsp; [C++ trivia engine](https://github.com/ammazhussain/Trivia) &nbsp;·&nbsp; [Flutter activity tracker](https://github.com/ammazhussain/Activity-Tracker)
-
-The salon, the agency page, the medical platform and that Bootstrap build were written before I used any AI tooling. Every layout decision in them is one I made and can defend.
-
-</details>
-
-<sub>Nine repos are private. They are client builds and they stay closed, but I will walk through the work, the decisions and the code on a call.</sub>
-
-<br>
-
-## Stack
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img alt="Languages: TypeScript, JavaScript, Python, Dart, C++, PHP. Web: React, Vite, Flask, GSAP, Bootstrap, HTML, CSS. Mobile: Flutter, Firebase, PWA. AI and ML: Ollama, FAISS, spaCy, PyTorch, scikit-learn, OpenCV. Tools: Git, MySQL, Netlify, Figma." src="assets/stack-light.svg" width="100%">
-</picture>
-
-<br>
-
-## Hire me
-
-Available for freelance work, and open to an internship or a junior role.
-
-[LinkedIn](https://www.linkedin.com/in/ammaz-hussain-75023b300/) &nbsp;·&nbsp; [Email](mailto:ammazammaz.ussain2002@gmail.com) &nbsp;·&nbsp; Islamabad, Pakistan
+<p align="center">
+  <a href="https://www.linkedin.com/in/ammaz-hussain-75023b300/">LinkedIn</a> · 
+  <a href="mailto:ammazammaz.ussain2002@gmail.com">Email</a> · 
+  <a href="https://github.com/ammazhussain">GitHub</a>
+</p>
