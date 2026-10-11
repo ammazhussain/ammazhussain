@@ -18,19 +18,19 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 I'm a Computer Science student at **Bahria University, Islamabad**, passionate about full-stack development and building software that solves real problems. I enjoy working across the stack — from crafting responsive frontends to wiring up backends and integrating AI features.
 
-- 🔭 Currently working on **full-stack web apps** with modern frameworks
-- 🌱 Exploring **React, Node.js, and cloud deployment**
-- 🤖 Experienced with **AI/ML integration** (Flask + spaCy + scikit-learn)
-- 📱 Dabbling in **mobile development** with Flutter/Dart
-- ⚡ Fun fact: I love building things from scratch — games, chatbots, you name it
+-  Currently working on **full-stack web apps** with modern frameworks
+-  Exploring **React, Node.js, and cloud deployment**
+-  Experienced with **AI/ML integration** (Flask + spaCy + scikit-learn)
+-  Dabbling in **mobile development** with Flutter/Dart
+-  Fun fact: I love building things from scratch — games, chatbots, you name it
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -55,7 +55,7 @@ I'm a Computer Science student at **Bahria University, Islamabad**, passionate a
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -66,7 +66,7 @@ I'm a Computer Science student at **Bahria University, Islamabad**, passionate a
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ammazhussain&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -79,7 +79,7 @@ I'm a Computer Science student at **Bahria University, Islamabad**, passionate a
 
 ---
 
-### 🤝 Let's Connect
+###  Let's Connect
 
 I'm always open to collaborating on interesting projects or just chatting about tech. Feel free to reach out!
 
